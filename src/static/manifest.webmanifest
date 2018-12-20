@@ -1,0 +1,24 @@
+{
+  "name": "Corentin Flach • Creative developer & Storyteller",
+  "short_name": "Corentin Flach",
+  "description": "Storytelling with film-making, interactive & creative front-end development and motion design. This is what I like and do.",
+  "dir": "auto",
+  "lang": "en-US",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "start_url": "./?utm_source=web_app_manifest",
+  "background_color": "#855E42",
+  "theme_color": "#855E42",
+  "icons": [
+    {
+      "src": "./img/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

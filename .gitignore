@@ -1,0 +1,13 @@
+.DS_Store
+.cache
+node_modules/
+dist/*
+!dist/.htaccess
+!dist/_redirects
+!dist/robots.txt
+!dist/sitemap.xml
+!dist/share.jpg
+report.html
+PSD/
+npm-debug.log
+yarn-error.log
