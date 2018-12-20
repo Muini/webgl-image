@@ -7,7 +7,7 @@ export default class FIP extends InView {
 
         super(opt);
 
-        console.log('FIP creation', this)
+        // console.log('FIP creation', this)
 
         this.url = opt.url;
 

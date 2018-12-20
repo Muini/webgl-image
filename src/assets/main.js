@@ -60,7 +60,7 @@ new Directive({
 new Directive({
     name: 'fip',
     callback: (item, data) => {
-        console.log('fip url', data.url)
+        // console.log('fip url', data.url)
         requestAnimationFrame(_ => {
             new FIP({
                 elem: item,
